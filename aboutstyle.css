@@ -1,0 +1,115 @@
+body
+{
+	background-color: #FFFFCC;
+	background-image: url(silk.jpg);
+}
+.jumbotron
+{
+	margin: 0 auto;
+	padding-top: 0px;
+	width: 95%;
+	border-radius: 10px;
+	border: solid;
+	border-width: 1px;
+	padding-top: 10px;
+	padding-left: 1rem;
+	padding-bottom: 0px;
+}
+#information
+{
+	height: 40vh;
+	width: 70vw;
+	margin-top: -25rem;
+	margin-left: 5rem;
+}
+#dr
+{
+	font-size: 1.5em;
+}
+h2
+{
+	text-align: center;
+}
+#schedule
+{
+	margin-left: 105%;
+	margin-top: -5rem;
+}
+#firstp
+{
+	width: 85%;
+}
+#nahla
+{
+	margin-left: 85%;
+	margin-top: -15rem;
+	border-radius: 2px;
+	border: solid;
+	border-width: 1px;
+	height: 20rem;
+}
+
+/*#button
+{
+    padding: .5em;
+}*/
+
+.navbar-header
+{
+	height:80px;
+}
+#logo
+{
+	height:50px;
+	border-radius: 3px;
+}
+#contact
+{
+	padding-top:200px;
+}
+#services
+{
+	padding-left: 5vw;
+	padding-top: 3vw;
+	color: #A0A0A0;
+	font-size: 1.7em;
+}
+#about
+{
+	padding-left: 3vw;
+	padding-top: 3vw;
+	color: white;
+	font-size: 1.7em;
+}
+#findus
+{
+	padding-left: 3vw;
+	padding-top: 3vw;
+	color: #A0A0A0;
+	font-size: 1.7em;
+}
+#services:hover
+{
+	color: white;
+}
+#findus:hover
+{
+	color: white;
+}
+#contact
+{
+	text-align: center;
+	margin-left: 60rem;
+	margin-top: -26rem;
+}
+#hours
+{
+	text-align: center;
+	margin-top: 1rem;
+}
+#address
+{
+	text-align: center;
+	margin-right: 60rem;
+	margin-top: -8rem;
+}
